@@ -4,8 +4,8 @@ Created on Sat Jul 17 19:18:00 2021
 
 @author: thienle
 """
-import cv2
 import numpy as np
+import cv2
 import streamlit as st
 import tensorflow as tf
 from tensorflow.keras.preprocessing import image
